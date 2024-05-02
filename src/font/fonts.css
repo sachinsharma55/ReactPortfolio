@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'HeavyGill';
+    src: url('../font/GillSansMTPro-Heavy.otf') format('openType')
+}
+
+@font-face {
+    font-family: 'Passion';
+    src :url('../font/PassionOne-Black.ttf') format('ttf'),
+    url('../font/PassionOne-Bold.ttf') format('ttf');
+}
